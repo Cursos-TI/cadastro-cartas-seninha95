@@ -14,7 +14,11 @@ int main() {
     int Número de Pontos Turísticos = 50;
 
   // Área para definição das variáveis para armazenar as propriedades das cidades
-  printf("O Código é")
+  printf("O Código é: %c\n", Código);
+  printf("O Estado é: %c\n", Estado);
+  printf("A cidade é: %s\n", Cidade);
+  printf("A População é: %d", População);
+  
   // Área para entrada de dados
 
   // Área para exibição dos dados da cidade

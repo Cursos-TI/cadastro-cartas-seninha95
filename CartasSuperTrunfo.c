@@ -2,22 +2,22 @@
 
 int main() {
     // Declaração das variáveis da Carta 1
-    char estado1;
-    char codigo1[4];
-    char nomeCidade1[50];
-    int populacao1;
-    float area1;
-    float pib1;
-    int pontosTuristicos1;
+    char estado1 = A;
+    char codigo1[4] = A01;
+    char nomeCidade1[50] = São Paulo;
+    int populacao1 = 12325000;
+    float area1 = 1521.11 km²;
+    float pib1 =  699.28 bilhões de reais;
+    int pontosTuristicos1 = 50;
 
     // Declaração das variáveis da Carta 2
-    char estado2;
-    char codigo2[4];
-    char nomeCidade2[50];
-    int populacao2;
-    float area2;
-    float pib2;
-    int pontosTuristicos2;
+    char estado2 = B;
+    char codigo2[4] = B02;
+    char nomeCidade2[50] = Rio de Janeiro;
+    int populacao2 = 6748000;
+    float area2 = 1200.25 km²;
+    float pib2 = 300.50 bilhões de reais;
+    int pontosTuristicos2 = 30;
 
     // Entrada de dados da Carta 1
     printf("Cadastro da Carta 1:\n");

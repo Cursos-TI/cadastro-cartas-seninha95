@@ -42,7 +42,6 @@ int main() {
     printf("Digite o número de pontos turísticos: ");
     scanf("%d", &pontosTuristicos1);
 
-    printf("\n----------------------------------------\n");
 
     // Entrada de dados da Carta 2
     printf("Cadastro da Carta 2:\n");
@@ -67,7 +66,6 @@ int main() {
     printf("Digite o número de pontos turísticos: ");
     scanf("%d", &pontosTuristicos2);
 
-    printf("\n========================================\n");
 
     // Exibição dos dados da Carta 1
     printf("Carta 1:\n");
@@ -79,7 +77,6 @@ int main() {
     printf("PIB: %.2f bilhões de reais\n", pib1);
     printf("Número de Pontos Turísticos: %d\n", pontosTuristicos1);
 
-    printf("\n----------------------------------------\n");
 
     // Exibição dos dados da Carta 2
     printf("Carta 2:\n");
@@ -91,7 +88,6 @@ int main() {
     printf("PIB: %.2f bilhões de reais\n", pib2);
     printf("Número de Pontos Turísticos: %d\n", pontosTuristicos2);
 
-    printf("\n========================================\n");
 
     return 0;
 }
